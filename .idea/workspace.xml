@@ -4,15 +4,16 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="52d14e1e-1d6a-412e-99ea-cfebcf15dd63" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/info" beforeDir="false" afterPath="$PROJECT_DIR$/info" afterDir="false" />
+    <list default="true" id="52d14e1e-1d6a-412e-99ea-cfebcf15dd63" name="Default Changelist" comment="something new need to added 2021-03-07 21:24">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Rebase.Settings">
+    <option name="NEW_BASE" value="origin/main" />
   </component>
   <component name="Git.Settings">
     <excluded-from-favorite>
@@ -69,10 +70,24 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="MavenSettings" />
   </component>
   <component name="RebelAgentSelection">
     <selection>jr</selection>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -85,7 +100,7 @@
       <workItem from="1614849610462" duration="931000" />
       <workItem from="1614850544842" duration="487000" />
       <workItem from="1615087430285" duration="988000" />
-      <workItem from="1615122885277" duration="366000" />
+      <workItem from="1615122885277" duration="1012000" />
     </task>
     <task id="LOCAL-00001" summary="this is the first version 2021-03-04 17:22">
       <created>1614849975167</created>
@@ -108,7 +123,14 @@
       <option name="project" value="LOCAL" />
       <updated>1614850857178</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="something new need to added 2021-03-07 21:24">
+      <created>1615123463434</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1615123463434</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -129,6 +151,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="this is the first version 2021-03-04 17:22" />
     <MESSAGE value="something new need to added 2021-03-04 17:40" />
-    <option name="LAST_COMMIT_MESSAGE" value="something new need to added 2021-03-04 17:40" />
+    <MESSAGE value="something new need to added 2021-03-07 21:24" />
+    <option name="LAST_COMMIT_MESSAGE" value="something new need to added 2021-03-07 21:24" />
   </component>
 </project>
