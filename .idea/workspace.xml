@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="52d14e1e-1d6a-412e-99ea-cfebcf15dd63" name="Default Changelist" comment="something new need to added 2021-03-07 21:24">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="52d14e1e-1d6a-412e-99ea-cfebcf15dd63" name="Default Changelist" comment="something new need to added 2021-03-07 21:24" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -100,7 +98,7 @@
       <workItem from="1614849610462" duration="931000" />
       <workItem from="1614850544842" duration="487000" />
       <workItem from="1615087430285" duration="988000" />
-      <workItem from="1615122885277" duration="2280000" />
+      <workItem from="1615122885277" duration="2601000" />
     </task>
     <task id="LOCAL-00001" summary="this is the first version 2021-03-04 17:22">
       <created>1614849975167</created>
@@ -151,7 +149,14 @@
       <option name="project" value="LOCAL" />
       <updated>1615124395978</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="something new need to added 2021-03-07 21:24">
+      <created>1615125224075</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1615125224075</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
